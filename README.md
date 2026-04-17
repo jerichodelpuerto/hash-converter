@@ -19,13 +19,13 @@ A simple command-line utility to generate a comprehensive set of hashes for any 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 No installation is required. Simply save the script as `hash_converter.py`.
 
 ---
 
-## 🚀 Usage
+## Usage
 
 Run the script from your terminal using `python` or `python3`:
 
